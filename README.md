@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on the rate of declining in the enrolment of the male gender in Christian Model College with respect to that of the female gender
 - 
 - 
-- 💞️ I’m looking to collaborate on advanced data analysts on this project
+- 💞️ I’m looking forward to collaborate with advanced data analysts on this project
 - 
 - 📫 interested person should reach me through email: irokojames84@gmail.com 
   
