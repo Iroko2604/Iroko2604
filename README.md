@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Iroko2604
-- 👀 I’m interested in analysing the rate of declining in the enrolment of male students in my school and the consequences 
-- 🌱 I’m currently working on the rate of declining in the enrolment of the male gender in Christian Model College with respect to that of the female gender
-- 
-- 
-- 💞️ I’m looking forward to collaborate with advanced data analysts on this project
-- 
-- 📫 interested person should reach me through email: irokojames84@gmail.com 
+- 👀 I’m currently learning the use of  Linux and structured query language SQL
+- I'm looking forward to collaborate with advanced security analyst on the use of linux and sql to detect vulnerabilities of network systems and databases.
+As an entry level security analyst, I’m looking forward to working as a risk assessment agent in a network service providing organisation.
+  
+  
+  
   
   
 
